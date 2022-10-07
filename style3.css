@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.font-box{
+    width: 1350px;
+    margin: 150px auto;
+    display: flex;
+    flex-flow: wrap;
+    
+}
+.font{
+    width: 100x;
+    height: 150px;
+    background-size:cover;
+}
+.font:hover{
+    cursor: pointer;
+}
+
+.ff{background-image: url(typo3/f2.png);}
+.ff:hover{background-image: url(typo3/f1.png);}
+
+.ii{background-image: url(typo3/i2.png);}
+.ii:hover{background-image: url(typo3/i1.png);}
+
+.oo{background-image: url(typo3/o2.png);}
+.oo:hover{background-image: url(typo3/o1.png);}
+
+.nn{background-image: url(typo3/n2.png);}
+.nn:hover{background-image: url(typo3/n1.png);}
+
+.aa{background-image: url(typo3/a2.png);}
+.aa:hover{background-image: url(typo3/a1.png);}

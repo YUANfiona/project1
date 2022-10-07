@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.font-box{
+    width: 1350px;
+    margin: 150px auto;
+    display: flex;
+    flex-flow: wrap;
+    
+}
+.font{
+    width: 150px;
+    height: 150px;
+    background-size:cover;
+}
+.font:hover{
+    cursor: pointer;
+}
+
+.a{background-image: url(./font-1/字母改-01.png);}
+.a:hover{background-image: url(./font-2/字母-01.png);}
+
+.b{background-image: url(./font-1/字母改-02.png);}
+.b:hover{background-image: url(./font-2/字母-02.png);}
+
+.c{background-image: url(./font-1/字母改-03.png);}
+.c:hover{background-image: url(./font-2/字母-03.png);}
+
+.d{background-image: url(./font-1/字母改-04.png);}
+.d:hover{background-image: url(./font-2/字母-04.png);}
+
+.e{background-image: url(./font-1/字母改-05.png);}
+.e:hover{background-image: url(./font-2/字母-05.png);}
+
+.f{background-image: url(./font-1/字母改-06.png);}
+.f:hover{background-image: url(./font-2/字母-06.png);}
+
+.g{background-image: url(./font-1/字母改-07.png);}
+.g:hover{background-image: url(./font-2/字母-07.png);}
+
+.h{background-image: url(./font-1/字母改-08.png);}
+.h:hover{background-image: url(./font-2/字母-08.png);}
+
+.i{background-image: url(./font-1/字母改-09.png);}
+.i:hover{background-image: url(./font-2/字母-09.png);}
+
+.j{background-image: url(./font-1/字母改-10.png);}
+.j:hover{background-image: url(./font-2/字母-10.png);}
+
+.k{background-image: url(./font-1/字母改-11.png);}
+.k:hover{background-image: url(./font-2/字母-11.png);}
+
+.l{background-image: url(./font-1/字母改-12.png);}
+.l:hover{background-image: url(./font-2/字母-12.png);}
+
+.m{background-image: url(./font-1/字母改-13.png);}
+.m:hover{background-image: url(./font-2/字母-13.png);}
+
+.n{background-image: url(./font-1/字母改-14.png);}
+.n:hover{background-image: url(./font-2/字母-14.png);}
+
+.o{background-image: url(./font-1/字母改-15.png);}
+.o:hover{background-image: url(./font-2/字母-15.png);}
+
+.p{background-image: url(./font-1/字母改-16.png);}
+.p:hover{background-image: url(./font-2/字母-16.png);}
+
+.q{background-image: url(./font-1/字母改-17.png);}
+.q:hover{background-image: url(./font-2/字母-17.png);}
+
+.r{background-image: url(./font-1/字母改-18.png);}
+.r:hover{background-image: url(./font-2/字母-18.png);}
+
+.s{background-image: url(./font-1/字母改-19.png);}
+.s:hover{background-image: url(./font-2/字母-19.png);}
+
+.t{background-image: url(./font-1/字母改-20.png);}
+.t:hover{background-image: url(./font-2/字母-20.png);}
+
+.u{background-image: url(./font-1/字母改-21.png);}
+.u:hover{background-image: url(./font-2/字母-21.png);}
+
+.v{background-image: url(./font-1/字母改-22.png);}
+.v:hover{background-image: url(./font-2/字母-22.png);}
+
+.w{background-image: url(./font-1/字母改-23.png);}
+.w:hover{background-image: url(./font-2/字母-23.png);}
+
+.x{background-image: url(./font-1/字母改-24.png);}
+.x:hover{background-image: url(./font-2/字母-24.png);}
+
+.y{background-image: url(./font-1/字母改-25.png);}
+.y:hover{background-image: url(./font-2/字母-25.png);}
+
+.z{background-image: url(./font-1/字母改-26.png);}
+.z:hover{background-image: url(./font-2/字母-26.png);}
+
+.a-27{background-image: url(./font-1/字母改-27.png);}
+.a-27:hover{background-image: url(./font-2/字母-27.png);}
+
+.a-28{background-image: url(./font-1/字母改-28.png);}
+.a-28:hover{background-image: url(./font-2/字母-28.png);}
+
+.a-29{background-image: url(./font-1/字母改-29.png);}
+.a-29:hover{background-image: url(./font-2/字母-29.png);}
+
+.a-30{background-image: url(./font-1/字母改-30.png);}
+.a-30:hover{background-image: url(./font-2/字母-30.png);}
+
+.a-31{background-image: url(./font-1/字母改-31.png);}
+.a-31:hover{background-image: url(./font-2/字母-31.png);}
+
+.a-32{background-image: url(./font-1/字母改-32.png);}
+.a-32:hover{background-image: url(./font-2/字母-32.png);}
+
+.a-33{background-image: url(./font-1/字母改-33.png);}
+.a-33:hover{background-image: url(./font-2/字母-33.png);}
+
+.a-34{background-image: url(./font-1/字母改-34.png);}
+.a-34:hover{background-image: url(./font-2/字母-34.png);}
+
+.a-35{background-image: url(./font-1/字母改-35.png);}
+.a-35:hover{background-image: url(./font-2/字母-35.png);}
+
+.a-36{background-image: url(./font-1/字母改-36.png);}
+.a-36:hover{background-image: url(./font-2/字母-36.png);}
+
+.a-37{background-image: url(./font-1/字母改-37.png);}
+.a-37:hover{background-image: url(./font-2/字母-37.png);}
+
+.a-38{background-image: url(./font-1/字母改-38.png);}
+.a-38:hover{background-image: url(./font-2/字母-38.png);}
+
+.a-39{background-image: url(./font-1/字母改-39.png);}
+.a-39:hover{background-image: url(./font-2/字母-39.png);}
+
+.a-40{background-image: url(./font-1/字母改-40.png);}
+.a-40:hover{background-image: url(./font-2/字母-40.png);}
+
+.a-41{background-image: url(./font-1/字母改-41.png);}
+.a-41:hover{background-image: url(./font-2/字母-41.png);}
